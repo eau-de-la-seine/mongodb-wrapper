@@ -6,7 +6,7 @@ import java.lang.annotation.Target;
 import java.lang.annotation.ElementType;
 
 /**
- * An annotation for 
+ * An annotation for naming collection
  * 
  * @author Gokan EKINCI
  */

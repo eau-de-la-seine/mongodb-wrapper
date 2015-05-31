@@ -6,8 +6,10 @@ import com.mongodb.MongoClient;
 import com.mongodb.ServerAddress;
 import fr.ekinci.mongodbwrapper.DatabaseImpl;
 
+
 /**
- * <p>A class which create a link between the program and MongoDB</p>
+ * A class which create a link between the program and MongoDB
+ * 
  * @author Gokan EKINCI
  */ 
 public class Cluster {
